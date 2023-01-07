@@ -1,0 +1,43 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+background: pink;
+}
+img{
+width: 35%;
+padding:10px;
+}
+img:hover{
+border:100px ;
+}
+.column{
+padding: 10px;
+display:inline ;
+}
+.copy_right_footer{
+bottom: 0;
+background-color: antiquewhite;
+width: 100%;
+position: fixed;
+color: rgb(47, 0, 255);
+text-align: center;
+line-height: 3;
+
+}
